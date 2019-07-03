@@ -28,6 +28,14 @@ nano config.js
 ```
 Add your bot token from Telegram.
 
+### Running the thing
+
+```
+npm start/yarn start
+```
+
+This would be better if you run it in a server or the cloud.
+
 <!-- ## Running the tests
 
 Explain how to run the automated tests for this system
