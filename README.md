@@ -68,7 +68,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Rohan M** - [DiminishingReturns](diminishingreturns.space)
+* **Rohan M** - [Diminishing Returns](http://diminishingreturns.space)
 
 <!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
 
